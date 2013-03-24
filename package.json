@@ -7,7 +7,7 @@
 	"author"      :  "Sajal Kayan <sajal@turbobytes.com> (http://www.cdnplanet.com/)",
 	"files"       :  ["lib/", "test/" , "server.js"],
 	"main"        :  "lib/main.js",
-	"repository"  :  { "type": "git", "url": "git://github.com/xxdesmus/cdnfinder.git" },
+	"repository"  :  { "type": "git", "url": "git://github.com/sajal/cdnfinder.js.git" },
 	"engines"     :  { "node": ">=0.5.7" },
 	"dependencies":  {"step": "*", "native-dns": "*", "express": "*"}
 }

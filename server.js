@@ -46,7 +46,7 @@ app.get('/', function(req, res){
 });
 
 
-app.listen(80);
+app.listen(8080);
 
 //completecdnfinder("http://www.msnbc.com/", function(err, results){
 //  console.dir(results);
